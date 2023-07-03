@@ -30,7 +30,7 @@ OR
 
 * Clone this repository using
 ```sh
-git clone https://github.com/amit-y11/the_ocr_bot
+git clone https://github.com/brianmurutu/image-to-text-tgbot
 ```
 * Enter the directory and install all the requirements using
 ```sh
